@@ -4,3 +4,7 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+battery = "0.7.8"
+notify-rust = "4.12.0"
+tray-icon = "0.21.3"
+winit = "0.30.13"
